@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "DBTween",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bc7fcf7d4e60450ca51158289d355ff4",
+			"SupportedTargetPlatforms": [
+				"Mac",
+				"Win64",
+				"Android",
+				"IOS"
+			]
+		},
+		{
+			"Name": "SimpleSaveGameExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e601727096024542a9322855d1112c02"
+		},
+		{
+			"Name": "XGEController",
+			"Enabled": false
+		}
+	]
+}
